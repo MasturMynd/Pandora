@@ -10,7 +10,7 @@ I've been wanting to be able to incorporate a nozzle brush, purge bucket, sexbol
 
 Something's Missing
 ---
-The astute among you may have noticed that there are no tensioners or tensioner knobs for the motor mounts. That's because this design uses the stock designs for those items. Please hop over to the (Voron-0)[https://github.com/VoronDesign/Voron-0] repo to pick these up if you don't already have them.
+The astute among you may have noticed that there are no tensioners or tensioner knobs for the motor mounts. That's because this design uses the stock designs for those items. Please hop over to the [Voron-0](https://github.com/VoronDesign/Voron-0) repo to pick these up if you don't already have them.
 
 It wasn't all fun and games
 ---
