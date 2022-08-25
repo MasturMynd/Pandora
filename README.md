@@ -24,8 +24,8 @@ The biggest hurdle for some is going to be that this setup currently requires se
 
 BOM
 ---
-| QTY | Part | Comments |
-| --- | --- | --- |
+| QTY | Part |
+| --- | --- |
 | 1 | MGN7-H Linear Guide Rail 180-200mm |
 | or | MGN9-C Linear Guide Rail 180-200mm |
 | or | MGN9-H Linear Guide Rail 180-200mm |
