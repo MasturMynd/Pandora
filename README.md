@@ -32,3 +32,7 @@ BOM
 | 2 | 3x14mm Dowel Pins | [Amazon](https://www.amazon.com/Stainless-Support-Elements-Location-Yesallwas/dp/B0819FZM8F/) |
 | 4 | F623 Bearings (V0 BOM Bearings) | [DFH](https://deepfriedhero.in/products/f623-rs-bearings?variant=40963862626473) |
 | | The rest of the parts should be BOM leftovers | |
+
+Issues?
+---
+If you run into any trouble or have questions during assembly don't hesitate to ping me in the Voron Discord server (@Mastur_Mynd). Also, If you find any other sources for the above parts at comparative prices / quality (or better) please let me know!
