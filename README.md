@@ -24,11 +24,11 @@ The biggest hurdle for some is going to be that this setup currently requires se
 
 BOM
 ---
-| QTY | Part |
-| --- | --- |
-| 1 | MGN7-H Linear Guide Rail 180-200mm |
-| or | MGN9-C Linear Guide Rail 180-200mm |
-| or | MGN9-H Linear Guide Rail 180-200mm |
-| 2 | 3x14mm Dowel Pins |
-| 4 | F623 Bearings (V0 BOM Bearings) |
-| | The rest of the parts should be BOM leftovers |
+| QTY | Part | Sourcing |
+| --- | --- | --- |
+| 1 | MGN7-H Linear Guide Rail 180-200mm | (unsourced) |
+| or | MGN9-C Linear Guide Rail 180-200mm | [Amazon](https://www.amazon.com/ReliaBot-Linear-Carriage-Printer-Machine/dp/B094CYMC3S/ref=sr_1_5?crid=MVNUARB2CP82&keywords=MGN9c&qid=1661545206&s=industrial&sprefix=mgn9c%2Cindustrial%2C90&sr=1-5) |
+| or | MGN9-H Linear Guide Rail 180-200mm | [DFH](https://deepfriedhero.in/products/mgn9h-linear-rail?variant=40905213313193), [Amazon](https://www.amazon.com/gp/product/B07ZJMWGKH/,) |
+| 2 | 3x14mm Dowel Pins | [Amazon](https://www.amazon.com/Stainless-Support-Elements-Location-Yesallwas/dp/B0819FZM8F/) |
+| 4 | F623 Bearings (V0 BOM Bearings) | [DFH](https://deepfriedhero.in/products/f623-rs-bearings?variant=40963862626473) |
+| | The rest of the parts should be BOM leftovers | |
