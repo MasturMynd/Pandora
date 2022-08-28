@@ -35,14 +35,14 @@ BOM
 | | | |
 | | The rest of the parts should be BOM leftovers | |
 | | | |
-| | *Front Idlers* | |
+| | **Front Idlers** | |
 | 1 | M3x12 BHCS | |
 | 1 | M3x16 BHCS | |
 | 2 | M3x30 BHCS | |
 | 2 | M3x35 BHCS | |
 | 2 | M3 Hex Nut | |
 | | | |
-| | *XY Joints* | |
+| | **XY Joints** | |
 | 8 | M2x6 FHCS | |
 | 4 | M3x8 BHCS | |
 | 4 | M3x10 BHCS | |
@@ -50,7 +50,7 @@ BOM
 | 2 | M3 Threaded Insert | |
 | 8 | M3 Hex Nut | |
 | | | |
-| | *Motor Mounts* | |
+| | **Motor Mounts** | |
 | 6 | M3x8 BHCS | |
 | 2 | M3x10 BHCS | |
 | 8 | M3x35 BHCS | |
@@ -58,7 +58,7 @@ BOM
 | 6 | M3 Threaded Insert | |
 | 8 | M3 Hex Nut | |
 | | | |
-| | *X Carriage* | |
+| | **X Carriage** | |
 | 4 | M3x8 BHCS | |
 
 After Installation
