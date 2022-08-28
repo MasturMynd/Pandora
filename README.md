@@ -28,12 +28,42 @@ BOM
 ---
 | QTY | Part | Sourcing |
 | --- | --- | --- |
-| 1 | MGN7-H Linear Guide Rail 180-200mm | (unsourced) |
-| or | MGN9-C Linear Guide Rail 180-200mm | [Amazon](https://www.amazon.com/ReliaBot-Linear-Carriage-Printer-Machine/dp/B094CYMC3S/ref=sr_1_5?crid=MVNUARB2CP82&keywords=MGN9c&qid=1661545206&s=industrial&sprefix=mgn9c%2Cindustrial%2C90&sr=1-5) |
+| 1 | MGN9-C Linear Guide Rail 180-200mm | [Amazon](https://www.amazon.com/ReliaBot-Linear-Carriage-Printer-Machine/dp/B094CYMC3S/ref=sr_1_5?crid=MVNUARB2CP82&keywords=MGN9c&qid=1661545206&s=industrial&sprefix=mgn9c%2Cindustrial%2C90&sr=1-5) |
 | or | MGN9-H Linear Guide Rail 180-200mm | [DFH](https://deepfriedhero.in/products/mgn9h-linear-rail?variant=40905213313193), [Amazon](https://www.amazon.com/gp/product/B07ZJMWGKH/,) |
 | 2 | 3x14mm Dowel Pins | [Amazon](https://www.amazon.com/Stainless-Support-Elements-Location-Yesallwas/dp/B0819FZM8F/) |
 | 4 | F623 Bearings (V0 BOM Bearings) | [DFH](https://deepfriedhero.in/products/f623-rs-bearings?variant=40963862626473) |
+| --- | --- | --- |
 | | The rest of the parts should be BOM leftovers | |
+| --- | --- | --- |
+| | Front Idlers | |
+| --- | --- | --- |
+| 1 | M3x12 BHCS | |
+| 1 | M3x16 BHCS | |
+| 2 | M3x30 BHCS | |
+| 2 | M3x35 BHCS | |
+| 2 | M3 Hex Nut | |
+| --- | --- | --- |
+| | XY Joints | |
+| --- | --- | --- |
+| 8 | M2x6 FHCS | |
+| 4 | M3x8 BHCS | |
+| 4 | M3x10 BHCS | |
+| 4 | M3x16 BHCS | |
+| 2 | M3 Threaded Insert | |
+| 8 | M3 Hex Nut | |
+| --- | --- | --- |
+| | Motor Mounts | |
+| --- | --- | --- |
+| 6 | M3x8 BHCS | |
+| 2 | M3x10 BHCS | |
+| 8 | M3x35 BHCS | |
+| 8 | M3x40 BHCS | |
+| 6 | M3 Threaded Insert | |
+| 8 | M3 Hex Nut | |
+| --- | --- | --- |
+| | X Carriage | |
+| --- | --- | --- |
+| 4 | M3x8 BHCS | |
 
 After Installation
 ---
