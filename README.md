@@ -20,6 +20,8 @@ What's the Catch?
 ---
 In order to use this mod you will need a new linear rail for X motion. In order to achieve 144mm of X travel, the stock 150mm rail won't cut it. The bearing block would fall off the rail before you hit full travel. On top of that, you'll also need some 3x14mm pins and a couple of extra F623 bearings. Aside from new parts you'll also have to account for the gantry being raised by ~8mm over stock. This means that the linear rails for Z motion will need to be raised and there's a possibility that things will get cramped under the tophat.
 
+In addition, the stock side panel mounting will no longer work since the carriage for the Y rails protrudes over the extrusions. I highly recommend [Zero Panels](https://github.com/zruncho3d/ZeroPanels) as these add the extra room between the acrylic panels and the carriages with the added benefit of making panels easier to remove for cleaning and future upgrades.
+
 The biggest hurdle for some is going to be that this setup currently requires sensorless homing as there isn't really a good place to put X or Y endstops.
 
 BOM
@@ -32,6 +34,28 @@ BOM
 | 2 | 3x14mm Dowel Pins | [Amazon](https://www.amazon.com/Stainless-Support-Elements-Location-Yesallwas/dp/B0819FZM8F/) |
 | 4 | F623 Bearings (V0 BOM Bearings) | [DFH](https://deepfriedhero.in/products/f623-rs-bearings?variant=40963862626473) |
 | | The rest of the parts should be BOM leftovers | |
+
+After Installation
+---
+The first thing that you will want to do is head over to the Voron Design website to read about setting up sensorless homing. There's a fantastic article by none other than [clee](https://github.com/clee), [Setting Up and Calibrating Sensorless Homing](https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html).
+
+Last, you'll want to ensure that your `printer.cfg` has been set up to take advantage of the extra room you've just unlocked without risking some sick high flying, mid air prints. You'll want to alter the `[stepper_x]` and `[stepper_y]` sections with the following machine limits:
+
+```
+[stepper_x]
+...
+position_endstop: 132
+position_max: 132
+position_min: -12
+...
+
+[stepper_y]
+...
+position_endstop: 125
+position_max: 125
+position_min: -2
+...
+```
 
 Issues?
 ---
