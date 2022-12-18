@@ -2,7 +2,7 @@
 
 Have you ever been trying to add a mod to your V0 but quickly realize that it won't fit due to travel restrictions? Have you wanted to transition to a front mounted x rail but didn't want to lose Y travel? If you've said yes to either, allow me to present Pandora, a gantry mod for the Voron V0 that allows 145mm of X travel and 127mm of Y travel within the stock frame.
 
-![Image of Pandora Gantry](./Images/pandora_complete_gantry.png)
+![Image of Pandora Gantry](./Images/Pandora_Complete_Gantry.png)
 
 The Goal
 ---
