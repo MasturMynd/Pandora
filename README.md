@@ -20,7 +20,7 @@ BOM
 ---
 | Part | Pandora | Stock | Diff | Sourcing |
 | --- | --- | --- | --- | --- |
-| | **Front Idlers** | | | | |
+| **Front Idlers** | | | | | |
 | 3x14mm Pin | 2 | 0 | 2 | [Amazon](https://www.amazon.com/Stainless-Support-Elements-Location-Yesallwas/dp/B0819FZM8F/) |
 | M3x8 BHCS | 2 | 2 | 0 | |
 | M3x10 BHCS | 2 | 2 | 0 | |
@@ -29,7 +29,7 @@ BOM
 | M3 Hex Nut | 2 | 2 | 0 | |
 | F623-RS | 8 | 4 | 4 | |
 | | | | | |
-| | **XY Joints** | | | | |
+| **XY Joints** | | | | | |
 | M2x6 FHCS | 8 | 8 | 0 | |
 | 3x14mm Pin | 2 | 0 | 2 | [Amazon](https://www.amazon.com/Stainless-Support-Elements-Location-Yesallwas/dp/B0819FZM8F/) |
 | M3x8 BHCS | 4 | 0 | 4 | |
@@ -40,7 +40,7 @@ BOM
 | M3 Threaded Insert | 2 | 4 | 2 | |
 | F623-RS | 8 | 8 | 0 | |
 | | | | | |
-| | **Drive Frames** | | | | |
+| **Drive Frames** | | | | | |
 | M3x8 BHCS | 10 | 0 | 10 | |
 | M3x10 BHCS | 2 | 2 | 0 | |
 | M3x12 BHCS | 2 | 0 | 2 | |
