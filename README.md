@@ -68,9 +68,9 @@ Last, you'll want to ensure that your `printer.cfg` has been set up to take adva
 ```
 [stepper_x]
 ...
-position_endstop: 132
-position_max: 132
-position_min: -12
+position_endstop: 131
+position_max: 131
+position_min: -11
 ...
 
 [stepper_y]
