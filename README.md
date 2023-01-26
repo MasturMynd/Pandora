@@ -21,7 +21,7 @@ BOM
 | Part | Pandora | Stock | Diff | Sourcing |
 | --- | --- | --- | --- | --- |
 | **Front Idlers** | | | | | |
-| 3x14mm Pin | 2 | 0 | 2 | [Amazon](https://www.amazon.com/Stainless-Support-Elements-Location-Yesallwas/dp/B0819FZM8F/) |
+| 3x14mm Pin | 2 | 0 | 2 | [Amazon](https://www.amazon.com/uxcell-Stainless-Cylindrical-Support-Elements/dp/B07Y58JKMC/ref=sr_1_3?crid=12XNCA9O5NWIN&keywords=3x14mm%2Bpin&qid=1674715484&s=industrial&sprefix=3x14mm%2Bpin%2Cindustrial%2C93&sr=1-3&th=1) |
 | M3x8 BHCS | 2 | 2 | 0 | |
 | M3x10 BHCS | 2 | 2 | 0 | |
 | M3x40 BHCS | 2 | 0 | 2 | |
@@ -31,7 +31,7 @@ BOM
 | | | | | |
 | **XY Joints** | | | | | |
 | M2x6 FHCS | 8 | 8 | 0 | |
-| 3x14mm Pin | 2 | 0 | 2 | [Amazon](https://www.amazon.com/Stainless-Support-Elements-Location-Yesallwas/dp/B0819FZM8F/) |
+| 3x14mm Pin | 2 | 0 | 2 | [Amazon](https://www.amazon.com/uxcell-Stainless-Cylindrical-Support-Elements/dp/B07Y58JKMC/ref=sr_1_3?crid=12XNCA9O5NWIN&keywords=3x14mm%2Bpin&qid=1674715484&s=industrial&sprefix=3x14mm%2Bpin%2Cindustrial%2C93&sr=1-3&th=1) |
 | M3x8 BHCS | 4 | 0 | 4 | |
 | M3x10 BHCS | 2 | 0 | 2 | |
 | M3x20 BHCS | 4 | 0 | 4 | |
